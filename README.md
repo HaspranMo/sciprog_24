@@ -1,5 +1,5 @@
-#Git Assignment Project
-## sciprog_24
+# Git Assignment Project
+* sciprog_24
 * Name: Ye Ji
 * Student Number: 24204735
 
