@@ -1,0 +1,98 @@
+commit a0064dd49473793b792e1b3c7835521328710685
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 14:49:06 2024 +0000
+
+    practical9
+
+commit 5f8ae910de72c67252bd2e3af2c22ee899cb7016
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 13:38:27 2024 +0000
+
+    Practical8
+
+commit 274c859a1eb27a08bac7c69a97edf02b2471e983
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 13:24:53 2024 +0000
+
+    practical7
+
+commit d91d1feb22362fd2904807c641c62979a7968ca8
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 09:27:17 2024 +0000
+
+    practical6
+
+commit 6c068cfdfa1d8557069a6c63d8230c7560a36213
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 08:52:12 2024 +0000
+
+    practical5
+
+commit 8a4d081a6c32982a578d085647876a6f46be35af
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 06:54:28 2024 +0000
+
+    Practical4
+
+commit e99c42e8d06e5d105128eca7ec201a3e9fff6d90
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 06:08:32 2024 +0000
+
+    practical3
+
+commit eae9e6abf7f23779667f94a7b38a40395b1f142c
+Author: HaspranMo <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:55:56 2024 +0000
+
+    Delete Conversion.c
+
+commit 7c11d0fd292108d64c3bdb88b9fee0746f0daf76
+Merge: 33375f6 24bea96
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:50:09 2024 +0000
+
+    Merge branch 'practical2'
+    
+    Merge branch  into 'master'
+
+commit 24bea9640e081f103ac4b324e48adbbe479a6a01
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:44:59 2024 +0000
+
+    add practical2 codes
+
+commit 46382714ece714be860b3536d4677b3f708cfe57
+Author: HaspranMo <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:18:11 2024 +0000
+
+    Create Conversion.c
+
+commit 8985259ad86ed057c04705084c9d1b70ddd13d35
+Author: HaspranMo <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:05:08 2024 +0000
+
+    Delete test.txt
+
+commit 33375f62cb0d4e4fe4f7d68e19c4e529d014657c
+Author: HaspranMo <jiye42338@gmail.com>
+Date:   Sun Nov 24 04:04:42 2024 +0000
+
+    Delete test.txt
+
+commit 7726b2318429288cc18b2e587b3e7a7f3d6c5fd9
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sat Nov 23 22:13:39 2024 +0000
+
+    add introduction to GIT Assignment
+
+commit 5296c03fa164a2116489d3df750daf098010083d
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sat Nov 23 22:04:41 2024 +0000
+
+    add introdyction to GIT Assignment
+
+commit 95d55e581a627919f41f247a6d10a206bba89d2a
+Author: “Ye <jiye42338@gmail.com>
+Date:   Sat Nov 23 21:20:01 2024 +0000
+
+    Initial commit
