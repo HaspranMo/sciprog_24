@@ -1,0 +1,31 @@
+exit  退出服务器
+ssh sp142@sciprog.training.ichec.ie 登录服务器
+下载文件 scp sp142@sciprog.training.ichec.ie:/home/courseusers/sp142/1.c ~/Desktop/
+上传文件 scp [本地文件路径] [用户名]@[服务器地址]:[目标路径]
+gcc name.c -o name -lm 编程
+./name 运行 
+  
+git branch practical 创建分支
+git checkout practical 切换分支
+git branch(查看分支)
+git push -u origin practical推送分支push到仓库
+(git push --set-upstream origin master
+mkdir practical2 创建文件夹
+  touch
+vim/vi   :wq(退出文件
+git add README.md/git add.
+git commit -m "..."
+git push -u origin master
+git checkout master
+git merge practicals 合并
+git push
+
+  
+cd .. 返回上级目录
+mv tan.c practical4/ 转移文件到后面这个目录
+rm xxx.txt 删除
+pwd 显示当前路径
+
+
+
+  
